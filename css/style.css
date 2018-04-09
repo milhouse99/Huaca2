@@ -1,0 +1,81 @@
+header{
+    min-width: 30%;
+    max-width:100%;
+    width: 0%;
+    background-image:"img/burger1.jpeg" ;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-bottom-color: blue;
+    
+}
+body{
+    text-align: center;
+}
+.box{
+    display: flex;
+
+}
+
+div li {
+    font-family: serif;
+    font-size: 16px;
+    color: white;
+    background-color:none;
+    text-align: center;
+    list-style: none;
+    text-decoration-line: none;
+    display: inline;
+}
+
+
+.menu{
+    font: 1em sans-serif;
+    
+    
+}
+.horaires{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+section{
+    display: inline-block;
+    margin-top: 20px;
+}
+.recette{
+    margin-top: 100px;
+    padding-left: 200px;
+    
+}
+.accroche{
+    font-family:'Alex Brush';
+    float: left;
+    font-size: 40px;
+    text-align: right;
+    color: blueviolet;
+    float: left;
+    width: 50%;
+    padding-top: 41px;
+    margin-left: 20PX;
+    margin-top: -80px;
+
+}
+.chef{
+    float: left;
+    padding: 50px;
+    text-align: center;
+    flex-wrap: wrap-reverse;
+}
+.fotoarticle{
+    margin-left: 50px;
+    
+    
+}
+.article{
+    margin-top: 50px;
+    margin-left: 183px;
+    
+
+}
+
